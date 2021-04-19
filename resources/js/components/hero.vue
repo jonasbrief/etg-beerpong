@@ -8,6 +8,10 @@
       Viel Spaß und Trinkfestigkeit beim digital-geselligen genießen diverser kühler Blonder. <br> 
       Für das offizielle Regelwerk der European Series of Beer Pong klickt auf <i>Regelwerk</i> <br>
       <strong> Gut kick! </strong>
+      
+    </p>
+    <p class="content">
+       <a href="https://cdn.shopify.com/s/files/1/0001/9064/4262/files/beerpong-turnierregeln.pdf?v=1603379144" target="blank"> <button class="button button is-light is-link"> Regelwerk </button>  </a>
     </p>
 
     <p class="subtitle">
